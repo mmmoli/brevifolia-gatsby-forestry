@@ -7,6 +7,8 @@ hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 ---
 I walked on the double here banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
 
+# Something important here
+
 Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
 
 ![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
